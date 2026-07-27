@@ -1,22 +1,81 @@
 aid: fortuna-health
 name: Fortuna Health
-description: Fortuna Health is a company surfaced as a portfolio company of a16z and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Fortuna Health is a consumer-first Medicaid navigation platform that helps
+  patients and members move through the Medicaid enrollment, recertification,
+  appeals, and coverage-management processes end to end. Founded in 2023 and
+  based in New York City, Fortuna consolidates the fragmented rules of the 50+
+  state and territory Medicaid programs — each with its own eligibility rules,
+  documentation standards, and renewal timelines — into a single digital
+  interface. The platform lets consumers connect accounts that auto-populate
+  their filings, provides a virtual mailbox for state and health-plan
+  communications, and sends text notifications for urgent, time-sensitive
+  actions. Fortuna partners with health systems and managed care plans as
+  middleware for the roughly $800B Medicaid ecosystem, and is backed by
+  Andreessen Horowitz (a16z) and Y Combinator.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/644edae40aef43dacc33caad/67a1cb2ac163f5a310ef637d_logo.png
 url: https://raw.githubusercontent.com/api-evangelist/fortuna-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - a16z
+- Y Combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Medicaid
+- Health Insurance
+- Benefits Enrollment
+- Government Benefits
+- Digital Health
+- Healthtech
 apis: []
+common:
+- type: VulnerabilityDisclosure
+  url: security/fortuna-health-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/fortuna-health-domain-security.yml
+- type: Website
+  url: https://www.fortunahealth.com/
+- type: Blog
+  url: https://www.fortunahealth.com/blog
+- type: StatusPage
+  url: https://status.fortunahealth.com/
+- type: Security
+  url: https://www.fortunahealth.com/security-policy
+- type: Compliance
+  url: https://www.fortunahealth.com/security-policy
+- type: TermsOfService
+  url: https://app.fortunahealth.com/tos
+- type: PrivacyPolicy
+  url: https://app.fortunahealth.com/privacy-policy
+- type: SignUp
+  url: https://app.fortunahealth.com/signup
+- type: Login
+  url: https://app.fortunahealth.com/login
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
