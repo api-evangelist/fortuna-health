@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fortuna Health is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Fortuna Health is a consumer-first Medicaid navigation platform that helps patients and members move through the Medicaid enrollment, recertification, appeals, and coverage-management processes end to end. Founded in 2023 and based in New York City, Fortuna consolidates the fragmented rules of the 50+ state and territory Medicaid programs — each with its own eligibility rules, documentation standards, and renewal timelines — into a single digital interface. The platform lets consumers connect accounts that auto-populate their filings, provides a virtual mailbox for state and health-plan communications, and sends text notifications for urgent, time-sensitive actions. Fortuna partners with health systems and managed care plans as middleware for the roughly $800B Medicaid ecosystem, and is backed by Andreessen Horowitz (a16z) and Y Combinator.
 
-Backed by: a16z
+**Areas:** Company · Healthcare · Medicaid · Health Insurance · Benefits Enrollment · Government Benefits · Digital Health · Health Tech
+
+## Fortuna Health on APIs.io
+
+Everything profiled for Fortuna Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fortuna-health/](https://apis.io/providers/fortuna-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fortuna Health Domain Security](https://apis.io/security/fortuna-health/fortuna-health-domain-security/)
+- [Fortuna Health Vulnerability Disclosure](https://apis.io/security/fortuna-health/fortuna-health-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.fortunahealth.com/)
+- [Sign up](https://app.fortunahealth.com/signup)
+- [Blog](https://www.fortunahealth.com/blog)
+- [Security](https://www.fortunahealth.com/security-policy)
+- [Compliance](https://www.fortunahealth.com/security-policy)
+- [Terms of service](https://app.fortunahealth.com/tos)
+- [Privacy policy](https://app.fortunahealth.com/privacy-policy)
+- [Status](https://status.fortunahealth.com/)
+
+## API Evangelist rating
+
+**Kin Score 16.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 42.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.9** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fortuna-health/](https://apis.io/providers/fortuna-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fortuna Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fortuna-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
